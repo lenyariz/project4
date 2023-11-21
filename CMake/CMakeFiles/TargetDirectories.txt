@@ -1,0 +1,3 @@
+/home/lenya/program3/CMake/CMakeFiles/rebuild_cache.dir
+/home/lenya/program3/CMake/CMakeFiles/edit_cache.dir
+/home/lenya/program3/CMake/CMakeFiles/project.dir
